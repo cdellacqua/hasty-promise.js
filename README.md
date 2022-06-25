@@ -1,5 +1,7 @@
 # hasty-promise
 
+### This package has been deprecated
+
 > A signal based approach to cancellation should be preferable, this package will no longer receive updates.
 
 A Promise you can hurry.
