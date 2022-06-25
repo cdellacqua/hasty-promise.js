@@ -32,7 +32,7 @@ to the standard Promise API.
 
 #### Defined in
 
-index.ts:5
+[index.ts:5](https://github.com/cdellacqua/hasty-promise.js/blob/main/src/lib/index.ts#L5)
 
 ___
 
@@ -72,7 +72,7 @@ the running task when the `hurry` method is called.
 
 #### Defined in
 
-index.ts:31
+[index.ts:31](https://github.com/cdellacqua/hasty-promise.js/blob/main/src/lib/index.ts#L31)
 
 ___
 
@@ -107,7 +107,7 @@ the underline Promise.
 
 #### Defined in
 
-index.ts:20
+[index.ts:20](https://github.com/cdellacqua/hasty-promise.js/blob/main/src/lib/index.ts#L20)
 
 ## Functions
 
@@ -138,4 +138,4 @@ a [HastyPromise](README.md#hastypromise)
 
 #### Defined in
 
-index.ts:48
+[index.ts:48](https://github.com/cdellacqua/hasty-promise.js/blob/main/src/lib/index.ts#L48)
